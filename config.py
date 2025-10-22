@@ -1,0 +1,2 @@
+
+OUTER_WALL_WIDTH = 240
